@@ -1,5 +1,5 @@
-How to execute port scanner file.
-1.unzip portscanner_project
+How to execute Port_Scanner
+1.unzip portscanner_project 
 2.cd portscanner
 3.python scanner.py
 4.python gui.py
